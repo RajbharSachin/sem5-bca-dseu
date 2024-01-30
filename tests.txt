@@ -1,0 +1,208 @@
+rewrite the above with no plagiarised text
+
+
+
+
+
+
+Diff bw
+	-hard and soft skills
+	-resume vs cv
+Behavioral Questions Answers
+List good communication skills
+List good workplace etiquette
+group-panel discussion (format & tips)
+Stages of First & second Interview(Tips)
+before/ onthe/ after job
+
+
+Compose a resume / CV
+write a cover letter.
+Write effective 
+	-business emails
+	-memos
+	-letters (job application...)
+Write basic 
+	-business notices 
+	-agenda
+	-meeting minutes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Unit 1:
+
+Comparison between Al, ml and Deep Learning
+
+Al Techniques and it's applications
+
+Domains of Al (Stats, Maths, etc) Intelligent agents and Learning Agents
+
+Unit 2:
+
+Difference between State Space Search and Control Strategies
+
+Heuristic Search(Inform and non inform search and sub parts (Hill climbing, BDS, DFS, All algos can come in options)
+
+Predicate Logic and Numerical
+
+Unit 3:
+
+Difference between Image classifications and text classification Neural network architecture (both)
+
+Unit 4:
+
+Recurrent neural network(RNN)
+Bidirectional RNN
+VOICE RECOGNITION, speech recognition, NLP, REGRESSION AND Deep network
+
+
+Question Paper Format
+
+10 ques (1 marks can be MCQ or Fill up)
+
+4 ques (5 marks 2 ques from 4)
+
+5 ques (2 or 3 marks)
+
+
+(x2)
+What are ensemble method
+dendogram
+frequent itemsets
+on policy & off policy
+Overfitting , underfitting, variance & bias
+Seaborn & Matplotlib Plots
+ML Applications
+ML Lifecycle
+Outlier Detection
+
+
+(x5)
+Feature selection techniques
+Unsupervised Learning Performance Measure
+
+Difference :-
+--K-means vs KNN (both supervised)
+Ensemble Method: Bagging vs Boosting
+Reinforcement & TD learning: Qlearning vs sarsa
+
+
+
+(supervised algos)
+--Naive Bayes /NUMERICAL
+K Means
+Random Forest- 
+
+
+Decision Tree
+ada boost - for both class & regre that combines multiple weak into strong
+
+
+(unsupervised algos)
+--Apirori- /NUMERICAL
+Hierarchical Clustering-
+PCA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEVOPS
+• Advantages and Disadvantages of DevOps
+• CI & CD
+• DevOps lifecycle 
+• DevOps Engineer Responsibility
+• what is VCS its types: lvcs VS cvcs VS dvcs
+
+GIT & JENKINS
+• what is git? and it's Architecture & workflow
+• Advantage & disadvantage of jenkins and Jenkins slave nodes
+• ant VS maven
+• Development with CI Vs without CI
+
+
+[IMP] 
+DOCKER
+
+• docker image vs docker container
+• monolithic architecture VS microservice architecture (with diagram)
+•  vm vs docker
+
+• docker container lifecycle
+• docker architecture
+• dockerfile
+• Docker compose , Docker volume, Docker Network, Docker Swarm (and its architecture)
+
+CLOUD
+• List of AWS DevOps tools
+• Why Cloud?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
